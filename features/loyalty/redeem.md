@@ -23,6 +23,8 @@ This request have several status :&#x20;
 
 When admin click `Approve`, there will be a pop-up confirmation about approving the request. Click `Yes` to approve.
 
+<figure><img src="../../.gitbook/assets/Screenshot 2023-03-01 at 14.15.09.png" alt=""><figcaption></figcaption></figure>
+
 When admin click `Reject`, there will be a pop-up confirmation about rejecting the request. Input the reason and click `Reject` to confirm.
 
 <figure><img src="../../.gitbook/assets/unnamed.png" alt=""><figcaption></figcaption></figure>
