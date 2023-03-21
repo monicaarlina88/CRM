@@ -68,6 +68,7 @@
     * [Create Roles](features/settings/roles/create-roles.md)
     * [Edit Roles](features/settings/roles/edit-roles.md)
     * [Delete Roles](features/settings/roles/delete-roles.md)
+    * [Accessibility Roles](features/settings/roles/accessibility-roles.md)
   * [Branches](features/settings/branches/README.md)
     * [Create Branches](features/settings/branches/create-branches.md)
     * [Edit Branches](features/settings/branches/edit-branches.md)
