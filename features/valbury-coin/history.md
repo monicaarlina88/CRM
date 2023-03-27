@@ -4,6 +4,8 @@ This page is used to view the history redeem request, search and filter the requ
 
 <figure><img src="../../.gitbook/assets/CRM (Member Loyalty) History.png" alt=""><figcaption></figcaption></figure>
 
+Field description :&#x20;
+
 | Field          | Type   | Description        |
 | -------------- | ------ | ------------------ |
 | ID             | Number | Request ID         |

@@ -33,6 +33,7 @@
     * [Delete Gift](features/valbury-coin-admin/gift-list/delete-gift.md)
   * [Marketing Point](features/valbury-coin-admin/marketing-point.md)
 * [Valbury Coin](features/valbury-coin/README.md)
+  * [Account](features/valbury-coin/account.md)
   * [Redeem](features/valbury-coin/redeem.md)
   * [History](features/valbury-coin/history.md)
 * [Referral](features/referral/README.md)
