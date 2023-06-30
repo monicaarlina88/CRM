@@ -4,7 +4,7 @@ You can add new leads by creating 1 by 1 or import using excel template.
 
 To create single leads, you can click the `New` button and it will redirect you to New Leads page. You have to fill out all required information and click `Save` to save the data to database.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-02-07 at 17.49.51.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-02-07 at 17.49.51.png" alt=""><figcaption></figcaption></figure>
 
 | Field               | Type            | Description                                                             |
 | ------------------- | --------------- | ----------------------------------------------------------------------- |

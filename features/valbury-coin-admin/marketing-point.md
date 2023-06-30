@@ -2,7 +2,7 @@
 
 This page is used to view the point achieved by each sales marketing. If you click on the name or the view icon, you will see the detail of each customer produce how many coins for this sales marketing.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 Field description :&#x20;
 
