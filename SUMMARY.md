@@ -36,6 +36,7 @@
   * [Account](features/valbury-coin/account.md)
   * [Redeem](features/valbury-coin/redeem.md)
   * [History](features/valbury-coin/history.md)
+* [Unity Codes](features/unity-codes.md)
 * [Referral](features/referral/README.md)
   * [IB List](features/referral/ib-list.md)
   * [Regol with IB](features/referral/regol-with-ib.md)
