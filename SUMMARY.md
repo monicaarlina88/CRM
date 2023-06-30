@@ -21,6 +21,7 @@
   * [Filter Leads](features/leads/filter-leads.md)
   * [Check Duplicate Data](features/leads/check-duplicate-data.md)
   * [Bulk Assign Sales or Status](features/leads/bulk-assign-sales-or-status.md)
+  * [Attachment on Leads](features/leads/attachment-on-leads.md)
 * [Accounts](features/accounts/README.md)
   * [Filter Account](features/accounts/filter-account.md)
 * [Gallery](features/gallery/README.md)
