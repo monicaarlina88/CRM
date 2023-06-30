@@ -1,8 +1,26 @@
 # Create Push Notif
 
-To create a new push notification, click Notif Template and create new template pop-up will appear. Fill in the required fields and click Save to keep the changes.
+To create multiple template, you can go to Sales Tools -> Push Notif Apps -> Click `Notif Template` -> Create the template -> When successfully created then user can see the template on the list
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2023-02-17 at 13.43.09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2023-06-30 at 14.56.03.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+To Edit the template, click the edit icon and update the data.
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+To Delete the template, click the delete icon and pop-up confirmation will appear, click Delete to confirm.
+
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+You can search the template before sending the broadcast by typing the template name.
+
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 | Field           | Type            | Description                                                              |
 | --------------- | --------------- | ------------------------------------------------------------------------ |

@@ -2,7 +2,7 @@
 
 This page is used to view the history redeem request, search and filter the request by status and date. To view the detail of each redeem request, you can click on the `Detail` button
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Field description :&#x20;
 
