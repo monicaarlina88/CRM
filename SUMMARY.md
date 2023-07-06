@@ -9,6 +9,7 @@
   * [Campaign](features/digital-marketing/campaign.md)
   * [Campaign Sales](features/digital-marketing/campaign-sales.md)
   * [Tracking URL](features/digital-marketing/tracking-url.md)
+  * [Landing Pages](features/digital-marketing/landing-pages.md)
 * [Sales Staff](features/sales-staff/README.md)
   * [Staff List](features/sales-staff/staff-list/README.md)
     * [Create New Staff](features/sales-staff/staff-list/create-new-staff.md)
