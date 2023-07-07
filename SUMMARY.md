@@ -42,7 +42,7 @@
 * [Unity Codes](features/unity-codes/README.md)
   * [Creating Unity Codes](features/unity-codes/creating-unity-codes.md)
 * [Referral](features/referral/README.md)
-  * [IB List](features/referral/ib-list.md)
+  * [Introducing Broker List](features/referral/introducing-broker-list.md)
   * [Regol with IB](features/referral/regol-with-ib.md)
   * [Ajak Teman](features/referral/ajak-teman/README.md)
     * [Future Ajak Teman](features/referral/ajak-teman/future-ajak-teman.md)
