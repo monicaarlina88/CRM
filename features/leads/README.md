@@ -25,5 +25,24 @@ These leads have several status :&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-02-08 at 16.01.34.png" alt=""><figcaption></figcaption></figure>
 
+UTM Description :&#x20;
 
+| UTM Name     | Description                                                                                          |
+| ------------ | ---------------------------------------------------------------------------------------------------- |
+| Google       | Nasabah yang mendapatkan link dari Google                                                            |
+| Data Pribadi | Daftar dengan kode sales                                                                             |
+| Organic      | Nasabah yang mendaftar langsung ke app tanpa FC, RC, Unity Code                                      |
+| TikTok Ads   | Nasabah yang mendapatkan link dari TikTok                                                            |
+| Data         | Data Pribadi yang terpotong                                                                          |
+| Satu Persen  | Nasabah yang mendapatkan link dari satu persen (channel marketing seperti google, detik, dan tiktok) |
+| Facebook Ads | Nasabah mendapatkan link dari Facebook                                                               |
+| Unattributed | Kondisi dimana nasabah mendaftar antara organic atau channel marketing                               |
+| Data IB      | Pendaftaran dari IB                                                                                  |
+
+| Code                   | Description                                                                                                                 |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| FC (Marketing Code)    | Kode yang terbuat secara otomatis untuk tiap Marketing berdasarkan cabangnya masing-masing                                  |
+| RC                     | Kode yang terbuat secara otomatis untuk nasabah mengajak teman (kode Ajak Teman) atau IB mengajak referral (kode IB)        |
+| Special Code           | Kode spesial yang ditambahkan untuk membuka komisi baru atau rate baru                                                      |
+| Origin Code/Unity Code | Origin code atau Unity code adalah kode gabungan yang digenerate oleh admin, kode yang sudah dimasukkan tidak dapat berubah |
 
