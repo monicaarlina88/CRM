@@ -14,6 +14,7 @@
   * [Staff List](features/sales-staff/staff-list/README.md)
     * [Create New Staff](features/sales-staff/staff-list/create-new-staff.md)
     * [Staff Details](features/sales-staff/staff-list/staff-details.md)
+    * [Share Deeplink](features/sales-staff/staff-list/share-deeplink.md)
   * [Staff Structure](features/sales-staff/staff-structure.md)
 * [Leads](features/leads/README.md)
   * [Create New Leads](features/leads/create-new-leads/README.md)
