@@ -1,5 +1,17 @@
 # Dashboard
 
-In this page, you will see the numbers of New Leads, In Process users, Qualified users, Failed users, Converted users, and Funded users. There are also the list of users that already been assigned to each sales and when the users is created. The list of new leads showed which of the new users is New, Failed, or  already Funded.
+Di halaman ini, Anda akan melihat jumlah dari `New Leads`, `In Process`, `Qualified`, `Failed`, `Converted`, dan `Funded`.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-02-06 at 10.42.46.png" alt=""><figcaption></figcaption></figure>
+* Daftar Leads Baru menunjukkan pengguna baru mana yang merupakan pengguna New, Failed, atau sudah Funded.
+* Daftar Task menunjukkan setiap status task untuk setiap leads dan FC mana leads ini sudah ditetapkan.
+* Daftar Deskripsi menunjukan setiap deskripsi yang sudah ditambahkan untuk setiap leads.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+VP akan melihat bar pengingat di bagian atas dasbor CRM, ketika mereka mengklik pengingat tersebut, mereka akan melihat daftar lead yang tidak aktif. VP dapat memfilter dan mengunduh daftar ke file excel dan mengambil tindakan berdasarkan daftar tersebut.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+VP akan mendapatkan email tentang lead yang perlu diperbarui dan dapat mengunduh file tersebut.
+{% endhint %}
