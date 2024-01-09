@@ -1,10 +1,10 @@
 # Tracking URL
 
-This menu will create a tracking of the campaign page, and notify you how many user will come from this page.
+Menu ini akan membuat pelacakan halaman kampanye, dan memberi tahu Anda berapa banyak pengguna yang datang dari halaman ini.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-02-09 at 17.42.40.png" alt=""><figcaption></figcaption></figure>
 
-To create the tracking URL, click on the `New` button and it will redirect you create new tracking page. Fill out all the details and click `Save` to save the data.
+Untuk membuat URL pelacakan, klik pada tombol `New` dan akan mengarahkan Anda untuk membuat halaman pelacakan baru. Isi semua detail dan klik `Save` untuk menyimpan data.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-02-09 at 17.43.16.png" alt=""><figcaption></figcaption></figure>
 
@@ -12,8 +12,8 @@ To create the tracking URL, click on the `New` button and it will redirect you c
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-02-09 at 17.43.59.png" alt=""><figcaption></figcaption></figure>
 
-To edit the URL tracking, click the `Edit` icon and you will be redirected to edit tracking URL page. Editable fields will be enable and if you want to save the changes, click `Save`.
+Untuk mengedit pelacakan URL, klik ikon `Edit` dan Anda akan diarahkan ke halaman edit URL pelacakan. Bidang yang dapat diedit akan diaktifkan dan jika Anda ingin menyimpan perubahan, klik`Save`.
 
-To view the tracking URL, click on the display icon and you will be redirected to the web page that already had URL tracking in the address.
+Untuk melihat URL pelacakan, klik pada ikon tampilan dan Anda akan diarahkan ke halaman web yang sudah memiliki pelacakan URL di alamat tersebut.
 
-To delete the tracking URL, click on the trash icon and confirmation pop-up will appear. Click `OK` to confirm deleting the tracking URL.
+Untuk menghapus URL pelacakan, klik ikon sampah dan pop-up konfirmasi akan muncul. Klik `OK` untuk mengonfirmasi penghapusan URL pelacakan.
