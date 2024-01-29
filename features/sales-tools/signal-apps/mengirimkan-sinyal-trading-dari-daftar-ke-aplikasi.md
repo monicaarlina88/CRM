@@ -5,3 +5,7 @@ Untuk mengirimkan sinyal trading yang tersedia ke aplikasi, Anda harus centang s
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-01-29 at 14.46.09.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-01-29 at 14.46.29.png" alt=""><figcaption></figcaption></figure>
+
+Masuk ke menu Push Notif Apps, pilih template push notif berdasarkan judul yang Anda telah buat lalu pilih penerima sinyal tradingnya dengan klik `Send All Broadcast` atau `Send to Selected`
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

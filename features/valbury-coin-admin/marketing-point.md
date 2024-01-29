@@ -16,7 +16,7 @@ Field description :&#x20;
 | Branch      | Text   | Which branch this sales assigns to |
 | Coins       | Number | Available coins (accumulated)      |
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Field description :&#x20;
 
