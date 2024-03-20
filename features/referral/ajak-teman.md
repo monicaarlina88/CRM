@@ -42,3 +42,11 @@ Benefit of Ajak Teman referral :&#x20;
 * For each referral joined from user's Ajak Teman, they will receive Rp 500.000,- with maximum 20 referral.
 * Client can only join via user's referral link in Valbury App
 * CSO can update the payment status for each eligible client that join via user's referral link.
+
+### Menghitung jumlah nasabah yang direferralkan
+
+Admin dapat mengecek berapa banyak akun yang terdaftar menggunakan kode Ajak Teman dari nasabah dan memberikan tanda jika nasabah tersebut sudah mendaftarkan 20 teman yang eligible.
+
+Untuk mengecek detail teman yang sudah diajak dan jumlah yang sudah `PAID` atau `UNPAID` maka admin dapat klik tombol **Update** dan akan muncul detailnya.
+
+<figure><img src="https://valbury.gitbook.io/~gitbook/image?url=https:%2F%2F1419112617-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F9bd901PWyHrcrr6MgxiG%252Fuploads%252FkDAOSJEqopBfJohtbtEm%252FAjak%2520Teman.png%3Falt=media%26token=4c64d1db-eb9a-42e0-8492-fa15ac12f049&#x26;width=300&#x26;dpr=4&#x26;quality=100&#x26;sign=b33290577361d8354b4e53a430d3833eb099315f63c87cf4237a62607f7b84d8" alt=""><figcaption></figcaption></figure>
